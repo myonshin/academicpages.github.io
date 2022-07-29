@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "MJ's website"
-title_separator          : "-"
+title                    : "Myong Jong(MJ) Shin"
+title_separator          : " This is "
 name                     : &name "Myong Jong(MJ) Shin"
 description              : &description "personal description"
 url                      : https://myonshin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
