@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Teaching Experience"
+description: All courses are from Indiana University Bloomington
 permalink: /teaching/
 author_profile: true
 ---
