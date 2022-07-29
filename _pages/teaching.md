@@ -9,24 +9,27 @@ author_profile: true
 
 
 </pre>
+font-size:4em;">Associate instructor requires full teaching responsibility as a single intructor.</span>
 {% include base_path %}
 
 <span style="color:#990000">Graduate Courses</span>
 ======
-* ***Associate Instructor***, M524 Financial Econometrics, Fall 2021
 * ***Teaching Assistant***, E671 Econometrics 3, Spring 2022
+* ***Associate Instructor***, M524 Financial Econometrics, Fall 2021
 
 <span style="color:#990000">Undergraduate Courses</span>
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* ***Associate Instructor***, E370 Statistical Analysis For Business and Economics
+  * Spring 2021
+  * Fall 2020
+  * Spring 2020 
+  * Fall 2019 
+* ***Associate Instructor***, E344 Health Economics, Spring 2019
+* ***Associate Instructor***, E201 Intro to Microeconomics, Fall 2018
+* ***Teaching Assistant***, E202 Intro to Macroeconomics, Spring 2018
+* ***Teaching Assistant***, E201 Intro to Microeconomics, Fall 2017
+* ***Grading Assistant***, E202 Intro to Macroeconomics, Spring 2017
+* ***Grading Assistant***, E370 Statistical Analysis For Business and Economics, Fall 2016
   
 Skills
 ======
@@ -54,8 +57,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
-
