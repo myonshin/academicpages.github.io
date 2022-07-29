@@ -9,7 +9,7 @@ author_profile: true
 
 
 </pre>
-<span style="font-family:Papyrus; font-size: large;">All courses are from Indiana University Bloomington. <br />Associate instructor has full teaching and grading responsibility as a single instructor.</span>
+<span style="font-family:Papyrus; font-size: large;">* All courses are from Indiana University Bloomington.<br />* Associate instructor has full teaching and grading responsibility as a single instructor.</span>
 {% include base_path %}
 
 <span style="color:#990000">Graduate Courses</span>
