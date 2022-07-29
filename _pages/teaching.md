@@ -11,13 +11,12 @@ author_profile: true
 </pre>
 {% include base_path %}
 
-<span style="color:#990000">GRADUATE COURSES</span>
+<span style="color:#990000">Graduate Courses</span>
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* ***Associate Instructor***, M524 Financial Econometrics, Fall 2021
+* ***Teaching Assistant***, E671 Econometrics 3, Spring 2022
 
-Work experience
+<span style="color:#990000">Undergraduate Courses</span>
 ======
 * Summer 2015: Research Assistant
   * Github University
