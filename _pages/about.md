@@ -11,6 +11,8 @@ I am a PhD Candidate in Economics at Indiana University Bloomington. 'Myong Jong
 
 Please navigate using the top menubar. You can come back to this page by clicking **Myong Jong(MJ) Shin** icon at the top left corner.
 
+For a bigger profile picture, [click here](https://myonshin.github.io//files/profile.png)
+
 The website is currently under construction. 
 
 Getting started
