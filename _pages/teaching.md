@@ -1,7 +1,6 @@
 ---
 layout: archive
-title: "Teaching Experience"
-description: All courses are from Indiana University Bloomington
+title: "Teaching Experience[^1]"
 permalink: /teaching/
 author_profile: true
 ---
@@ -12,7 +11,7 @@ author_profile: true
 </pre>
 <span style="font-family:Papyrus; font-size: large;">Associate instructor has full teaching and grading responsibility as a single instructor.</span>
 {% include base_path %}
-
+[^1]: All courses are from Indiana University Bloomington.  
 <span style="color:#990000">Graduate Courses</span>
 ======
 * ***Teaching Assistant***, E671 Econometrics 3, Spring 2022
