@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Myong Jong(MJ) Shin's website"
-title_separator          : " this is"
+title                    : "MJ's website"
+title_separator          : "-"
 name                     : &name "Myong Jong(MJ) Shin"
 description              : &description "personal description"
-url                      : https://myonshin.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://myonshin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "myonshin/myonshin.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
