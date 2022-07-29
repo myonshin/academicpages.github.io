@@ -12,6 +12,7 @@ author_profile: true
 <span style="font-family:Papyrus; font-size: large;">Associate instructor has full teaching and grading responsibility as a single instructor.</span>
 {% include base_path %}
 [^1]: All courses are from Indiana University Bloomington.  
+
 <span style="color:#990000">Graduate Courses</span>
 ======
 * ***Teaching Assistant***, E671 Econometrics 3, Spring 2022
