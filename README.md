@@ -11,3 +11,9 @@ https://github.com/Johannes-Wiedemann/Johannes-Wiedemann.github.io
 https://mmistakes.github.io/minimal-mistakes/docs/navigation/
 
 https://www.kairongchen.com/
+
+https://github.com/CiaranRogers88?tab=repositories
+
+https://yunqi-li.github.io/
+
+https://github.com/luisarmona/luisarmona.github.io
