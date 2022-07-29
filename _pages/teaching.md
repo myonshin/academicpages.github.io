@@ -9,9 +9,9 @@ author_profile: true
 <pre>
 
 
-
 </pre>
 {% include base_path %}
+
 <span style="color:#990000">Graduate Courses</span>
 ======
 * ***Teaching Assistant***, E671 Econometrics 3, Spring 2022
