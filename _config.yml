@@ -83,10 +83,9 @@ author:
   bio              : "PhD Candidate in Economics at Indiana University Bloomington"
   location         : "Bloominton, IN"
   employer         : "Indiana University Bloomington"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+ #googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :  myonshin@iu.edu
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Myong-Jong-Shin"
   github           : "myonshin"
   linkedin         : "myong-jong-shin-a302921aa"
   twitter          : "@SHiN_Mjo"
