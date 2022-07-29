@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /teaching/
-title: Teaching
-description: All at Indiana University
+title: "Teaching"
+description: Indiana University Bloomington
 author_profile: true
 ---
 
