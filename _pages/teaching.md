@@ -31,7 +31,10 @@ author_profile: true
 * ***Teaching Assistant***, E201 Intro to Microeconomics, Fall 2017
 * ***Grading Assistant***, E202 Intro to Macroeconomics, Spring 2017
 * ***Grading Assistant***, E370 Statistical Analysis For Business and Economics, Fall 2016
-  
+
+
+
+{% comment %} 
 Skills
 ======
 * Skill 1
@@ -58,3 +61,4 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+{% endcomment %}
