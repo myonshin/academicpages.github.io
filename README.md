@@ -7,3 +7,5 @@ https://github.com/academicpages/academicpages.github.io
 https://academicpages.github.io/
 
 https://github.com/Johannes-Wiedemann/Johannes-Wiedemann.github.io
+
+https://mmistakes.github.io/minimal-mistakes/docs/navigation/
