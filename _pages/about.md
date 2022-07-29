@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD Candidate in Economics at Indiana University Bloomington. 'Myong Jong' is my first name and I go by 'MJ' for short. I do not have a middle name. Please navigate using the top menubar. You can come back to this page by clicking **Myong Jong(MJ) Shin** icon at the top left corner.
+I am a PhD Candidate in Economics at Indiana University Bloomington. 'Myong Jong' is my first name and I go by 'MJ' for short. I do not have a middle name. 
+
+Please navigate using the top menubar. You can come back to this page by clicking **Myong Jong(MJ) Shin** icon at the top left corner.
 
 
 The website is currently under construction. 
