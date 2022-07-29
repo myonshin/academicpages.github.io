@@ -9,7 +9,7 @@ author_profile: true
 
 
 </pre>
-<span style="font-family:Papyrus; font-size: large;">Associate instructor requires full teaching responsibility as a single intructor.</span>
+<span style="font-family:Papyrus; font-size: large;">Associate instructor requires full teaching responsibility as a single instructor.</span>
 {% include base_path %}
 
 <span style="color:#990000">Graduate Courses</span>
