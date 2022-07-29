@@ -8,11 +8,10 @@ author_profile: true
 
 
 
-
 </pre>
 {% include base_path %}
 
-Education
+<span style="color:#990000">GRADUATE COURSES</span>
 ======
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
