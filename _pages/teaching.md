@@ -20,7 +20,7 @@ author_profile: true
 <span style="color:#990000">Undergraduate Courses</span>
 ======
 * ***Associate Instructor***, E370 Statistical Analysis For Business and Economics
-  * Fall 2022
+  * Fall 2022(on-going)
   * Spring 2021
   * Fall 2020
   * Spring 2020 
