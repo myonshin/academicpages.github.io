@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae & Resume"
+title: "Curriculum Vitae & Résumé"
 permalink: /cv/
 author_profile: true
 ---
