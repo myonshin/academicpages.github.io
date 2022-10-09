@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to my website! My name is Myong Jong Shin(in korean 신명종) and I am a PhD candidate in economics at Indiana University Bloomington. 'Myong Jong' is my first name and I go by 'MJ' for short. I do not have a middle name. 
+Welcome to my website! My name is Myong Jong Shin(in korean 신명종) and I am a PhD candidate in economics at Indiana University Bloomington. 'Myong Jong' is my first name and I go by 'MJ' for short. I do not have a middle name[^1]. 
 
-Please navigate using the top menubar. You can come back to this page by clicking **Myong Jong Shin** icon at the top left corner.
+[^1]: Please navigate using the top menubar. You can come back to this page by clicking **Myong Jong Shin** icon at the top left corner.
 
-Field of Interest: Financial Econometrics, Applied Machine Learning, Big data, Macroeconometrics
+**Field of Interest:** Financial Econometrics, Applied Machine Learning, Big data, Macroeconometrics
 
 For my CV, [click here](https://myonshin.github.io/files/CV.pdf).
 For a bigger profile picture, [click here](https://myonshin.github.io//files/profilepic.png).
