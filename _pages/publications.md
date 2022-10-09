@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-<span style="color:blue">Working papers</span>
+<span style="color:orange">Working papers</span>
 ======
 * ***Empirical investigation on supervised machine learning models predicting firm-level monthly equity risk premium***
 <br>
