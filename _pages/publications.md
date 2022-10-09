@@ -11,6 +11,13 @@ author_profile: true
 
 {% include base_path %}
 
+<span style="color:blue">Working papers</span>
+======
+* ***Empirical investigation on supervised machine learning models predicting firm-level\\\hspace{29pt} monthly equity risk premium***
+<br>E671 Econometrics 3, Spring 2022
+
+
+
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
