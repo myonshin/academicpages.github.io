@@ -13,7 +13,7 @@ Please navigate using the top menubar. You can come back to this page by clickin
 
 For a bigger profile picture, [click here](https://myonshin.github.io//files/profilepic.png).
 
-My main research interests are Financial Econometrics, Applied Machine Learning, Big data, and Macroeconometrics
+My main research interests are Financial Econometrics, Applied Machine Learning, Big data, and Macroeconometrics.
 
 The website is currently under construction. Will be updated soon!
 
