@@ -11,8 +11,9 @@ Welcome to my website! My name is Myong Jong Shin(in korean 신명종) and I am 
 
 Please navigate using the top menubar. You can come back to this page by clicking **Myong Jong Shin** icon at the top left corner.
 
-Field of Interest: Financial Econometrics, Applied Machine Learning, Big data, and Macroeconometrics.
+Field of Interest: Financial Econometrics, Applied Machine Learning, Big data, Macroeconometrics
 
+For my CV, [click here](https://myonshin.github.io/files/CV.pdf).
 For a bigger profile picture, [click here](https://myonshin.github.io//files/profilepic.png).
 
 {% comment %} 
