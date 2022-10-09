@@ -12,12 +12,12 @@ author_profile: true
 </pre>
 {% include base_path %}
 
-<span style="color:#990000">Graduate Courses</span>
+<span style="color:orange">Graduate Courses</span>
 ======
 * ***Teaching Assistant***, E671 Econometrics 3, Spring 2022
 * ***Associate Instructor***, M524 Financial Econometrics, Fall 2021
 
-<span style="color:#990000">Undergraduate Courses</span>
+<span style="color:orange">Undergraduate Courses</span>
 ======
 * ***Associate Instructor***, E370 Statistical Analysis For Business and Economics
   * Fall 2022(on-going)
