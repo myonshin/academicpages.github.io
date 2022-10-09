@@ -17,7 +17,8 @@ author_profile: true
 <br>E671 Econometrics 3, Spring 2022
 
 
-
+{% comment %} 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+{% endcomment %} 
