@@ -13,7 +13,7 @@ I will be available for ASSA 2023 Job Market online interviews.
 
 [^1]: Please navigate using the top menubar. You can come back to this page by clicking **Myong Jong Shin** icon at the top left corner.
 
-**Field of Interest:** Financial Econometrics, Applied Machine Learning, Big data, Macroeconometrics
+**Field of Interest:** Financial Econometrics, Applied Machine Learning, Big Data Analysis, Macroeconometrics
 
 For my CV, [click here](https://myonshin.github.io/files/CV.pdf).
 For a bigger profile picture, [click here](https://myonshin.github.io//files/profilepic.png).
