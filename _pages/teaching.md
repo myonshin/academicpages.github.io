@@ -24,7 +24,7 @@ author_profile: true
   * Spring 2021
   * Fall 2020
   * Spring 2020 
-  * Fall 2019, ([syllabus](https://myonshin.github.io/files/E370_Syllabus(section8727).pdf))
+  * Fall 2019, ([syllabus](https://myonshin.github.io/files/E370_Syllabus.pdf))
 * ***Associate Instructor***, E344 Health Economics, Spring 2019
 * ***Associate Instructor***, E201 Intro to Microeconomics, Fall 2018
 * ***Teaching Assistant***, E202 Intro to Macroeconomics, Spring 2018
