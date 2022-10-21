@@ -15,7 +15,7 @@ author_profile: true
 <span style="color:orange">Graduate Courses</span>
 ======
 * ***Teaching Assistant***, E671 Econometrics 3, Spring 2022
-* ***Associate Instructor***, M524 Financial Econometrics, Fall 2021([syllabus])(https://myonshin.github.io/files/Syllabus_Fall2021_M524.pdf)
+* ***Associate Instructor***, M524 Financial Econometrics, Fall 2021([syllabus](https://myonshin.github.io/files/Syllabus_Fall2021_M524.pdf))
 
 <span style="color:orange">Undergraduate Courses</span>
 ======
@@ -24,7 +24,7 @@ author_profile: true
   * Spring 2021
   * Fall 2020
   * Spring 2020 
-  * Fall 2019, ([syllabus])(https://myonshin.github.io/files/E370_Syllabus(section8727).pdf)
+  * Fall 2019, ([syllabus](https://myonshin.github.io/files/E370_Syllabus(section8727).pdf))
 * ***Associate Instructor***, E344 Health Economics, Spring 2019
 * ***Associate Instructor***, E201 Intro to Microeconomics, Fall 2018
 * ***Teaching Assistant***, E202 Intro to Macroeconomics, Spring 2018
