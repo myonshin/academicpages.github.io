@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to my website![^1] My name is Myong Jong Shin(in Korean 신명종) and I am a PhD candidate in economics at Indiana University Bloomington. 'Myong Jong' is my first name and I go by 'MJ' for short. I do not have a middle name! 
+Welcome to my website![^1] My name is Myong Jong Shin(in Korean 신명종) and I am a PhD candidate in Economics at Indiana University Bloomington. 'Myong Jong' is my first name and I go by 'MJ' for short. I do not have a middle name! 
 
 I will be available for ASSA 2023 Job Market online interviews.
 
