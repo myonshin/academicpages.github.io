@@ -15,8 +15,9 @@ author_profile: true
 ======
 * ***Empirical investigation on supervised machine learning models predicting equity risk premium***
 <br>
-Abstract: Using US monthly data, we examine the performance of various supervised machine learning models' performance in forecasting multi-horizon firm-level equity risk premium. Following Gu, Kelly, and Xu (2020), we use a panel of firm-level US financial ratios and macroeconomic variables as common covariates. The big data spans from March 1957 to December 2019. First, using tests by Giacomini and White (2006) and Hansen (2005), we compare models to the benchmark of 0 forecast and examine out-of-sample fit. Among the models tested, we find that partial least squares and random forest provide best fit and performance. Using test by Li, Liao, and Quaedvlieg (2020), we further the inference by testing for model superiority conditional on a state variable indicative of the state of the US economy during the out-of-sample periods. We observe that the difference among the models become smaller.
+Abstract: Using US monthly data, we examine the performance of various supervised machine learning models’ performance in forecasting multi-horizon firm-level equity risk premium. Following Gu, Kelly, and Xiu (2020), we use a panel of firm-level US financial characteristics and macroeconomic predictors from March 1957 to December 2016. First, using tests by Giacomini and White (2006), Hansen, Lunde, and Nason (2011), and Hansen (2005), we compare across models and find the model with superior predictive ability. Additionally, we test for conditional superior predictive ability across models using the test by Li, Liao, and Quaedvlieg (2022). Superior predictive ability of a model is conditional on scalar state variable during prediction periods. Among the models tested, we find that generally, partial least squares and random forest show best predictive ability. 
 
+Keywords: Big Data, Supervised Machine Learning, Return predictability, Forecast evaluation
 
 {% comment %} 
 {% for post in site.publications reversed %}
