@@ -21,7 +21,7 @@ Abstract: Using US monthly data, we examine the performance of various supervise
 Keywords: Big Data, Supervised Machine Learning, Return predictability, Forecast evaluation
 <br>
 <br>
-[Current menuscript](https://myonshin.github.io/files/Syllabus_Fall2021_M524.pdf)
+([Current menuscript](https://myonshin.github.io/files/E370_Syllabus.pdf))
 {% comment %} 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
