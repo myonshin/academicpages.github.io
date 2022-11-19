@@ -22,15 +22,6 @@ Keywords: Big Data, Supervised Machine Learning, Return predictability, Forecast
 <br>
 <br>
 
-
-Evaluation of supervised machine learning methods predicting South Korea equity risk premium(working)
-
-Using South Korea monthly data, we examine the performance of various supervised machine learning models in forecasting monthly firm-level equity risk premium. We collect firms  in Korea Exchange from January 1990 to December 2019 and get their excess stock returns and predictors through Worldscope. Using tests by Giacomini and White (2006), Hansen, Lunde, and Nason (2011), and Hansen (2005), we compare across models and find the model with superior predictive ability. With our data, we find that LASSO, partial least squares, and random forest show superior predictive best predictive ability.
-
-
-
-
-
 {% comment %} 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
