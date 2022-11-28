@@ -24,6 +24,8 @@ Keywords: Big Data, Supervised Machine Learning, Return predictability, Forecast
 
 {% comment %} 
 {% for post in site.publications reversed %}
+{% Evaluation of supervised machine learning methods predicting equity risk premium in South Korea % 
+{% We examine the predictive performance of supervised machine learning models in forecasting monthly firm-level equity risk premium for companies currently listed or have been listed on Korea Exchange in the past. We collect firms from January 1990 to December 2019 through Worldscope database and use their financial characteristics as predictors. We forecast returns from January 2005 to December 2019 and test models for superior predictive ability and construct model confidence sets to evaluate forecasts. We also calculate the importance of predictors based on their mean decrease in l2 impurity using the random forest model. We find that for our data, weekly price trend and monthly price trend contribute the most. %} 
   {% include archive-single.html %}
 {% endfor %}
 {% endcomment %} 
