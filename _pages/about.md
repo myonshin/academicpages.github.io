@@ -17,7 +17,7 @@ I will be available for ASSA 2023 Job Market online interviews as well as in-per
 
 For my CV, [click here](https://myonshin.github.io/files/CV.pdf).
 
-For my résumé, [click here](https://myonshin.github.io/files/MJS_Resume_Dec19.pdf).
+For my résumé, [click here](https://myonshin.github.io/files/MJS_Resume_Jan7.pdf).
 
 For a bigger profile picture, [click here](https://myonshin.github.io//files/profilepic.png).
 
