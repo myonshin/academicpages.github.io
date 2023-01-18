@@ -15,13 +15,14 @@ I will be available for ASSA 2023 Job Market online interviews as well as in-per
 
 **Field of Interest:** Financial Econometrics, Applied Machine Learning, Big Data Analysis, Macroeconometrics
 
-For my CV, [click here](https://myonshin.github.io/files/CV.pdf).
-
 For my résumé, [click here](https://myonshin.github.io/files/MJS_Resume_Jan7.pdf).
 
 For a bigger profile picture, [click here](https://myonshin.github.io//files/profilepic.png).
 
 {% comment %} 
+
+For my CV, [click here](https://myonshin.github.io/files/CV.pdf).
+
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
