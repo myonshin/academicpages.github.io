@@ -7,9 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to my website![^1] My name is Myong Jong Shin and I am a PhD candidate in Economics at Indiana University Bloomington. 'Myong Jong' is my first name and I go by 'MJ' for short. I do not have a middle name! 
-
-I am expected to graduate with PhD degree in Economics during summer of 2023.
+Welcome to my website![^1] My name is Myong Jong Shin and I am a PhD candidate in Economics at Indiana University Bloomington. 'Myong Jong' is my first name and I go by 'MJ' for short. I am expected to graduate with PhD degree in Economics during summer of 2023.
 
 [^1]: Please navigate using the top menubar. You can come back to this page by clicking **Myong Jong Shin** icon at the top left corner.
 
