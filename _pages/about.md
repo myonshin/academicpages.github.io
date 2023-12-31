@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to my website![^1] My name is Myong Jong Shin, and I am a PhD Economics at Indiana University Bloomington. 'Myong Jong' is my first name and I go by 'MJ' for short.
+Welcome to my website![^1] My name is Myong Jong Shin, and I am an economics PhD from Indiana University Bloomington. 'Myong Jong' is my first name and I go by 'MJ' for short.
 
 [^1]: Please navigate using the top menubar. You can come back to this page by clicking **Myong Jong Shin** icon at the top left corner.
 
