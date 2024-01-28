@@ -9,7 +9,7 @@ redirect_from:
 ---
 Welcome to my website![^1] My name is Myong Jong Shin, and I am an economics PhD from Indiana University Bloomington. 'Myong Jong' is my first name and I go by 'MJ' for short.
 
-Currently I work in the industry as a quantitative modeling sr. associate for JPMorgan & Chase.
+Currently I work in the industry as a quantitative modeling Sr. associate for JPMorgan & Chase.
 
 [^1]: Please navigate using the top menubar. You can come back to this page by clicking **Myong Jong Shin** icon at the top left corner.
 
