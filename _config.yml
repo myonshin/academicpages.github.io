@@ -83,7 +83,7 @@ author:
   bio              : "Economics PhD, Indiana University Bloomington"
   location         : "New York City, US"
   employer         : "JPMorgan Chase"
- #googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=r4RekCUAAAAJ&hl=en"
   email            :  myonshin@iu.edu
   researchgate     : "https://www.researchgate.net/profile/Myong-Jong-Shin"
   github           : "myonshin"
