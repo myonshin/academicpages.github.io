@@ -15,7 +15,7 @@ Currently I work in the industry as a quantitative modeling Sr. associate for JP
 
 **Field of Interest:** Financial Econometrics, Applied Machine Learning, Big Data Analysis, Macroeconometrics
 
-For my résumé, [click here](https://myonshin.github.io/files/MJS_Resume_Jan2.pdf).
+For my résumé, [click here](https://myonshin.github.io/files/MJS_Resume.pdf).
 
 For a bigger profile picture, [click here](https://myonshin.github.io//files/profilepic.png).
 
